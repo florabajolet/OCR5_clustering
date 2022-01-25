@@ -1,0 +1,13 @@
+*.csv
+*.xls
+*.xlsx
+*.zip
+*.pptx
+*.txt
+*.kml
+*.kmz
+/__pycache__
+/.ipynb_checkpoints
+/.vscode
+/img
+/old_versions
